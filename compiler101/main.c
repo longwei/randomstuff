@@ -1,6 +1,6 @@
 /* main.c */
 #include <stdio.h>
-#include "libstack.h"
+#include "stack.h"
 
 // extern void push(char);
 // extern char pop(void);
